@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Gisd.Domain\Gisd.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Factories\" />
+  </ItemGroup>
+</Project>
