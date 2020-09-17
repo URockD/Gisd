@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gisd.DataAccess", "Gisd.Dat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gisd.AppService", "Gisd.AppService\Gisd.AppService.csproj", "{58636478-9720-4448-9156-9E907745CDAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gisd.IntegrationTest", "Gisd.IntegrationTest\Gisd.IntegrationTest.csproj", "{350465C5-767A-4B3A-93AA-E9F119B59058}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{58636478-9720-4448-9156-9E907745CDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58636478-9720-4448-9156-9E907745CDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58636478-9720-4448-9156-9E907745CDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350465C5-767A-4B3A-93AA-E9F119B59058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350465C5-767A-4B3A-93AA-E9F119B59058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350465C5-767A-4B3A-93AA-E9F119B59058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350465C5-767A-4B3A-93AA-E9F119B59058}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C4452EB5-0380-4894-997E-BF50406B4DE2} = {2A24E018-79FC-47A8-AD7B-16040374BD9E}
